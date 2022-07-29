@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a GA Student Immersive, where I'm learning the ins and outs of become a Software Engineer! You can find my projects and more below!
+I'm currently in GA Student Immersive, where I'm learning the ins and outs of become a Software Engineer! You can find my projects and more below!
 
 
 📫 How to reach me: shiv14dec@gmail.com
